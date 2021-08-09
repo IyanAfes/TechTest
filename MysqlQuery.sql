@@ -1,0 +1,1 @@
+SELECT mhs_nama FROM tb_mahasiswa AS mhs_id INNER JOIN tb_mahasiswa_nilai AS mhs_id ON mk_id = mk_id INNER JOIN tb_matakuliah where mk_kode = 'MK303'
